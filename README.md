@@ -1,4 +1,4 @@
-### Hi there 👋
+![His favorite class is not the Spy.](gaben.jpg)
 
 <!--
 **terminalarch/terminalarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
